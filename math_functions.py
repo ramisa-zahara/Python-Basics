@@ -12,6 +12,8 @@ print(math.factorial(5))
 #factorial of X
 
 print(math.fmod(10,20))
+#returns remainders
+
 print(math.fabs(-4.6877))
 #abs() and math.fabs( ) both returns absolute values.
 
